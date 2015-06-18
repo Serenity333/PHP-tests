@@ -1,16 +1,17 @@
 h3 {
   font-size: 150px;
-  font-family: ;
+  font-family: 'Lobster', cursive;
   color: blue;
 }
   
 h2 {
   font-size: 100px;
-  font-family: ;
+  font-family: 'Indie Flower', cursive;
   color: red;
 }
 
 p {
   font-size: 75px;
   color: green;
+  font-family: 'Poiret One', cursive;
 }
