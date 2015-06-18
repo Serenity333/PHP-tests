@@ -15,3 +15,9 @@ p {
   color: green;
   font-family: 'Poiret One', cursive;
 }
+
+h1 {
+  color: purple;
+  font-family: 'Poiret One', cursive;
+  font-size:75px;
+}
